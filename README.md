@@ -13,7 +13,6 @@
 
 ---
 ### 🍺: About Me :
-- 👨‍🎓 BMSTU student (5 course)
 - 💻 Love learning something new
 - 👨‍💻 Study computer science and programming (in particular backend)
 
